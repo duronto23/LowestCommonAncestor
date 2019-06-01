@@ -1,0 +1,14 @@
+c:\users\msi\documents\visual studio 2017\Projects\LowestCommonAncestor\LowestCommonAncestor\bin\Debug\LowestCommonAncestor.exe.config
+c:\users\msi\documents\visual studio 2017\Projects\LowestCommonAncestor\LowestCommonAncestor\bin\Debug\LowestCommonAncestor.exe
+c:\users\msi\documents\visual studio 2017\Projects\LowestCommonAncestor\LowestCommonAncestor\bin\Debug\LowestCommonAncestor.pdb
+c:\users\msi\documents\visual studio 2017\Projects\LowestCommonAncestor\LowestCommonAncestor\obj\Debug\LowestCommonAncestor.csprojResolveAssemblyReference.cache
+c:\users\msi\documents\visual studio 2017\Projects\LowestCommonAncestor\LowestCommonAncestor\obj\Debug\LowestCommonAncestor.csproj.CoreCompileInputs.cache
+c:\users\msi\documents\visual studio 2017\Projects\LowestCommonAncestor\LowestCommonAncestor\obj\Debug\LowestCommonAncestor.exe
+c:\users\msi\documents\visual studio 2017\Projects\LowestCommonAncestor\LowestCommonAncestor\obj\Debug\LowestCommonAncestor.pdb
+D:\Work\Bongo Test\LowestCommonAncestor\LowestCommonAncestor\bin\Debug\LowestCommonAncestor.exe.config
+D:\Work\Bongo Test\LowestCommonAncestor\LowestCommonAncestor\bin\Debug\LowestCommonAncestor.exe
+D:\Work\Bongo Test\LowestCommonAncestor\LowestCommonAncestor\bin\Debug\LowestCommonAncestor.pdb
+D:\Work\Bongo Test\LowestCommonAncestor\LowestCommonAncestor\obj\Debug\LowestCommonAncestor.csprojResolveAssemblyReference.cache
+D:\Work\Bongo Test\LowestCommonAncestor\LowestCommonAncestor\obj\Debug\LowestCommonAncestor.csproj.CoreCompileInputs.cache
+D:\Work\Bongo Test\LowestCommonAncestor\LowestCommonAncestor\obj\Debug\LowestCommonAncestor.exe
+D:\Work\Bongo Test\LowestCommonAncestor\LowestCommonAncestor\obj\Debug\LowestCommonAncestor.pdb

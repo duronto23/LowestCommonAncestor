@@ -1,0 +1,32 @@
+c:\users\msi\documents\visual studio 2017\Projects\LowestCommonAncestor\LowestCommonAncestorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\msi\documents\visual studio 2017\Projects\LowestCommonAncestor\LowestCommonAncestorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\msi\documents\visual studio 2017\Projects\LowestCommonAncestor\LowestCommonAncestorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\msi\documents\visual studio 2017\Projects\LowestCommonAncestor\LowestCommonAncestorTests\bin\Debug\LowestCommonAncestorTests.dll
+c:\users\msi\documents\visual studio 2017\Projects\LowestCommonAncestor\LowestCommonAncestorTests\bin\Debug\LowestCommonAncestorTests.pdb
+c:\users\msi\documents\visual studio 2017\Projects\LowestCommonAncestor\LowestCommonAncestorTests\bin\Debug\LowestCommonAncestor.exe
+c:\users\msi\documents\visual studio 2017\Projects\LowestCommonAncestor\LowestCommonAncestorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+c:\users\msi\documents\visual studio 2017\Projects\LowestCommonAncestor\LowestCommonAncestorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+c:\users\msi\documents\visual studio 2017\Projects\LowestCommonAncestor\LowestCommonAncestorTests\bin\Debug\LowestCommonAncestor.pdb
+c:\users\msi\documents\visual studio 2017\Projects\LowestCommonAncestor\LowestCommonAncestorTests\bin\Debug\LowestCommonAncestor.exe.config
+c:\users\msi\documents\visual studio 2017\Projects\LowestCommonAncestor\LowestCommonAncestorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+c:\users\msi\documents\visual studio 2017\Projects\LowestCommonAncestor\LowestCommonAncestorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+c:\users\msi\documents\visual studio 2017\Projects\LowestCommonAncestor\LowestCommonAncestorTests\obj\Debug\LowestCommonAncestorTests.csprojResolveAssemblyReference.cache
+c:\users\msi\documents\visual studio 2017\Projects\LowestCommonAncestor\LowestCommonAncestorTests\obj\Debug\LowestCommonAncestorTests.csproj.CoreCompileInputs.cache
+c:\users\msi\documents\visual studio 2017\Projects\LowestCommonAncestor\LowestCommonAncestorTests\obj\Debug\LowestCommonAncestorTests.dll
+c:\users\msi\documents\visual studio 2017\Projects\LowestCommonAncestor\LowestCommonAncestorTests\obj\Debug\LowestCommonAncestorTests.pdb
+D:\Work\Bongo Test\LowestCommonAncestor\LowestCommonAncestorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Work\Bongo Test\LowestCommonAncestor\LowestCommonAncestorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Work\Bongo Test\LowestCommonAncestor\LowestCommonAncestorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Work\Bongo Test\LowestCommonAncestor\LowestCommonAncestorTests\bin\Debug\LowestCommonAncestorTests.dll
+D:\Work\Bongo Test\LowestCommonAncestor\LowestCommonAncestorTests\bin\Debug\LowestCommonAncestorTests.pdb
+D:\Work\Bongo Test\LowestCommonAncestor\LowestCommonAncestorTests\bin\Debug\LowestCommonAncestor.exe
+D:\Work\Bongo Test\LowestCommonAncestor\LowestCommonAncestorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Work\Bongo Test\LowestCommonAncestor\LowestCommonAncestorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Work\Bongo Test\LowestCommonAncestor\LowestCommonAncestorTests\bin\Debug\LowestCommonAncestor.pdb
+D:\Work\Bongo Test\LowestCommonAncestor\LowestCommonAncestorTests\bin\Debug\LowestCommonAncestor.exe.config
+D:\Work\Bongo Test\LowestCommonAncestor\LowestCommonAncestorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Work\Bongo Test\LowestCommonAncestor\LowestCommonAncestorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Work\Bongo Test\LowestCommonAncestor\LowestCommonAncestorTests\obj\Debug\LowestCommonAncestorTests.csprojResolveAssemblyReference.cache
+D:\Work\Bongo Test\LowestCommonAncestor\LowestCommonAncestorTests\obj\Debug\LowestCommonAncestorTests.csproj.CoreCompileInputs.cache
+D:\Work\Bongo Test\LowestCommonAncestor\LowestCommonAncestorTests\obj\Debug\LowestCommonAncestorTests.dll
+D:\Work\Bongo Test\LowestCommonAncestor\LowestCommonAncestorTests\obj\Debug\LowestCommonAncestorTests.pdb
